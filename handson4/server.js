@@ -9,5 +9,5 @@ app.get('/',(req,res)=>
     console.log(req);
 })
 app.listen(5000, ()=>{
-    console.log("last handson node js ")
+    console.log("server started in 5000 port  ")
 })
